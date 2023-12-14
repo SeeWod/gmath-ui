@@ -1,0 +1,16 @@
+{
+  "name": "gmath",
+  "version": "1.0.0",
+  "description": "一个几何数学运算库",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "geometry",
+    "math",
+    "2D"
+  ],
+  "author": "seeWod",
+  "license": "ISC"
+}
