@@ -1,5 +1,5 @@
 {
-  "name": "gmath",
+  "name": "gmath-ui",
   "version": "1.0.0",
   "description": "一个几何数学运算库",
   "main": "index.js",
